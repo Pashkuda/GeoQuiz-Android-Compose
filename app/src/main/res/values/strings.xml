@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <!-- Питання вікторини (Пункт 1) -->
+    <string name="question_oceans">Тихий океан є найбільшим океаном на Землі?</string>
+    <string name="question_mali">Столицею Франції є Марсель?</string>
+    <string name="question_ukraine">Київ є столицею України?</string>
+    <string name="question_everest">Гора Еверест є найвищою вершиною світу?</string>
+
+    <!-- Відповіді та спливаючі сповіщення (Пункти 1, 2) -->
+    <string name="answer_true">Правда</string>
+    <string name="answer_false">Неправда</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+</resources>
